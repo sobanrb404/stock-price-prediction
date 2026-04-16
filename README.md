@@ -33,7 +33,7 @@ pip install yfinance pandas matplotlib scikit-learn
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <your-repository-url>
+   git clone <https://github.com/sobanrb404/stock-price-prediction>
    ```
 2. Navigate to the project directory:
    ```bash
